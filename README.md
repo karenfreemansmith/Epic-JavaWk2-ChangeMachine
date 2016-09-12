@@ -1,5 +1,4 @@
 # Spark Change Machine
-
 Version 0.0.0: September 11, 2016
 
 by [Karen Freeman-Smith](https://github.com/karenfreemansmith)

@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-archivesBaseName = "spark-todo"
+archivesBaseName = "spark-change-machine"
 version = '1.0'
 mainClassName = "App"
 
