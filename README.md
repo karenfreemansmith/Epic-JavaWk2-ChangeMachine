@@ -1,12 +1,11 @@
 # Spark Change Machine
-Version 0.0.0: September 11, 2016
-
-by [Karen Freeman-Smith](https://github.com/karenfreemansmith)
+Version 0.0.0: September 11, 2016 by [Karen Freeman-Smith](https://github.com/karenfreemansmith)
 
 ## Description
 A program to figure out what kind of change/coins to give out.
 
-### Specifications:
+## Technologies Used
+Java, Spark, Gradle, JUnit
 
 ## Setup/Installation
 * Clone directory
@@ -17,11 +16,10 @@ A program to figure out what kind of change/coins to give out.
 ## Support & Contact
 For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
+## Specifications:
+
 ## Known Issues
 * This program runs only from the command line
-
-## Technologies Used
-Java, Spark, Gradle, junit
 
 ## Legal
 *Licensed under the GNU General Public License v3.0*
